@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["VF96BJU346.io.github.jinrui0713.okadai"],
+        "components": [
+          { "/": "/f/*", "comment": "OUN の友達の招待（#以降が招待の鍵）" }
+        ]
+      }
+    ]
+  }
+}
