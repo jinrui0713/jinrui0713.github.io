@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jinrui0713.okadai",
+      "sha256_cert_fingerprints": ["75:78:2A:54:1C:30:F5:69:0B:2F:45:3C:43:2F:2E:2A:DC:AF:52:06:61:B8:22:6A:C3:C8:88:40:DD:94:D8:3A"]
+    }
+  }
+]
